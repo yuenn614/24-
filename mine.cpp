@@ -4,6 +4,7 @@
 #include <cmath>
 #include "tap.h"
 #include "eval.h"
+#include "ans.h"
 
 using namespace std;
 
